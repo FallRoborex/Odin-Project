@@ -1,0 +1,47 @@
+# PyCharm
+.idea/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Compiled JavaScript files
+*.js
+
+# Compiled CSS files
+*.css
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Visual Studio Code settings
+.vscode/
+
+# Node.js
+node_modules/
+
+# Dependency directories
+bower_components/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.log.*
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
